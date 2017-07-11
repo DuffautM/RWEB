@@ -2,6 +2,9 @@
 
     class Partie implements ISavable
     {
+
+        //public $plateauDeJeu = new Kase();
+
         function getGame()
         {
             // TODO: Implement getGame() method.
@@ -84,6 +87,8 @@
 
     class TicTacToe
     {
+
+        public $fenetreDeJeu;
 
     }
 

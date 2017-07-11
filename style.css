@@ -4,7 +4,9 @@
 	height: 100px;
 }
 
-#game
+.buttontoscore
 {
-	border-top: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
+
